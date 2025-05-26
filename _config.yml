@@ -1,6 +1,12 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Zhang Jingru | Ruby 🪄
+description: >-
+  A space for my research, thoughts, and curiosities.
+url: "https://ZhangJingru-Ruby.github.io"
+baseurl: ""
 
+# Author Info
+author: Zhang Jingru
+email: your@email.com
 
 # Build settings
 markdown: kramdown
@@ -13,6 +19,10 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num"
 
+# Theme Settings
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Pages Path
 defaults:
@@ -24,12 +34,17 @@ defaults:
 include:
   - _pages
 
-
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# Extras (optional but lovely)
+social:
+  github: https://github.com/ZhangJingru-Ruby
+  email: rubyrubber2001824@gmail.com
+
+# Optional integrations
+disqus-identifier: your-disqus-shortname
+google-analytics: UA-XXXXXXXXX-X
+instafeed: false
