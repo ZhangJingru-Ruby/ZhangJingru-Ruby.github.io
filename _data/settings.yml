@@ -11,21 +11,14 @@ author:
   name: Jingru Zhang 
   image: 01.jpg
   say-hello: Hello, I'm <strong>Jingru Zhang</strong>, you can call me Ruby.
-  bio:  I'm an aspiring researcher in robotics and artificial intelligence,
-        with a passion for intelligent navigation, reinforcement learning, and autonomy systems.
-        Currently pursuing my academic goals with curiosity and a drive to explore dynamic environments — both in research and in life.
-
+  bio:  I'm an aspiring researcher in <strong>robotics and artificial intelligence<strong>,
+        with a passion for <strong>intelligent navigation<strong>, <strong>reinforcement learning<strong>, and <strong>autonomy systems<strong>.
 
 #-------------------------------
 # Contact links
 linkedin: http://linkedin.com/in/景茹-张-146665357
 email: rubyrubber2001824@gmail.com
 edu-email: 202421100204@std.uestc.edu.cn
-twitter: 
-facebook: 
-dribbble: 
-instagram:
-pinterest: 
 
 
 #-------------------------------
