@@ -66,9 +66,15 @@
     display: none;
   }
 
+  /* .nav__list {*/
+    /* white-space: nowrap;*/
+
   .nav__list {
-    white-space: nowrap;
-    
+    display: flex;
+    flex-wrap: wrap; /* 🌟 allows wrapping */
+    justify-content: center; /* 🌸 keeps them centered */
+    gap: 1.2rem; /* 💖 adds space between items */
+
     .nav__item {
       display: inline-block;
 
