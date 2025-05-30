@@ -1,26 +1,31 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Ruby
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: A personal academic site documenting my research progress, ideas, and inspirations.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Jingru Zhang 
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, I'm <strong>Jingru Zhang</strong>, you can call me Ruby.
+  bio:  I'm an aspiring researcher in robotics and artificial intelligence,
+        with a passion for intelligent navigation, reinforcement learning, and autonomy systems.
+        Currently pursuing my academic goals with curiosity and a drive to explore dynamic environments — both in research and in life.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: http://linkedin.com/in/景茹-张-146665357
+email: rubyrubber2001824@gmail.com
+edu-email: 202421100204@std.uestc.edu.cn
+twitter: 
+facebook: 
+dribbble: 
+instagram:
+pinterest: 
 
 
 #-------------------------------
@@ -30,7 +35,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: artemsheludko_ # Add instagram username
 
 
