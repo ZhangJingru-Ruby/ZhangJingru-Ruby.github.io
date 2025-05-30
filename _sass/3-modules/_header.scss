@@ -79,11 +79,23 @@
       /*display: inline-block;*/
       margin: 0 10px;
 
-      .nav__link {
+      /*.nav__link {
         display: inline-block;
         padding: 10px 30px;
         font-size: 14px;
         font-weight: 700;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        color: $dark;
+        &:hover {
+          color: $black;
+        }
+      }*/
+      .nav__link {
+        display: inline-block;
+        padding: 8px 15px;  // ↓ shrink horizontal padding
+        font-size: 13px;    // ↓ reduce font just a bit
+        font-weight: 600;
         letter-spacing: 0.5px;
         text-transform: uppercase;
         color: $dark;
