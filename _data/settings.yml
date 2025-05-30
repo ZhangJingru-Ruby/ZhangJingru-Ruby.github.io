@@ -10,9 +10,9 @@ description: A personal academic site documenting my research progress, ideas, a
 author:
   name: Jingru Zhang 
   image: 01.jpg
-  say-hello: Hello, I'm <strong>Jingru Zhang</strong>, you can call me Ruby.
-  bio:  I'm an aspiring researcher in <strong>robotics and artificial intelligence<strong>,
-        with a passion for <strong>intelligent navigation<strong>, <strong>reinforcement learning<strong>, and <strong>autonomy systems<strong>.
+  say-hello: Hello, I'm <strong>Jingru Zhang</strong>.
+  bio:  I'm an aspiring researcher in <strong>robotics and artificial intelligence</strong>,
+        with a passion for <strong>intelligent navigation</strong>, <strong>reinforcement learning</strong>, and <strong>autonomy systems</strong>.
 
 #-------------------------------
 # Contact links
