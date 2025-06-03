@@ -1,0 +1,12 @@
+<ul class="section-preview">
+  {% assign tagged_posts = site.tags[include.tag] | slice: 0, include.limit %}
+  {% for post in tagged_posts %}
+    <li class="preview-post">
+      <a href="{{ post.url }}">
+        <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="{{ post.title }}">
+        <h4>{{ post.title }}</h4>
+        <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
