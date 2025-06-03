@@ -3,4 +3,44 @@ layout: page
 title: Work
 permalink: /work/
 ---
-Coming soon: my research, publications, work log and GitHub projects.
+
+Welcome to my **Work** page!  
+Here I document my ongoing research, projects, collaborations, and progress logs.  
+This space reflects not just my output, but also the process — the growth, the setbacks, and the teamwork that shapes it all. ✨
+
+<!-- This is the layout grid -->
+<div class="work-grid">
+
+  <!-- Work Log section -->
+  <div class="work-block">
+    <h3>Work Log</h3>
+    <p>My weekly logs tracking effort and reflection.</p>
+    {% include section-preview.html tag="worklog" limit="3" %}
+    <a href="{{ site.baseurl }}/tags/worklog" class="button">More →</a>
+  </div>
+
+  <!-- Projects section -->
+  <div class="work-block">
+    <h3>Projects</h3>
+    <p>My GitHub repos, code experiments, and personal builds.</p>
+    {% include section-preview.html tag="projects" limit="3" %}
+    <a href="{{ site.baseurl }}/tags/projects" class="button">More →</a>
+  </div>
+
+  <!-- Collaborations section -->
+  <div class="work-block">
+    <h3>Collaborations</h3>
+    <p>Team efforts, lab mates, and shared experiments.</p>
+    {% include section-preview.html tag="collaborations" limit="3" %}
+    <a href="{{ site.baseurl }}/tags/collaborations" class="button">More →</a>
+  </div>
+
+  <!-- Publications section -->
+  <div class="work-block">
+    <h3>Publications</h3>
+    <p>One day, this will bloom with my papers 🌸 (coming soon!)</p>
+    {% include section-preview.html tag="publications" limit="3" %}
+    <a href="{{ site.baseurl }}/tags/publications" class="button">More →</a>
+  </div>
+
+</div>
