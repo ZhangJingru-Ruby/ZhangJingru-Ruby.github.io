@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 2025年第22周工作总结
+title: Week 22 of 2025 – Work Summary
 date: 2025-06-01
 tags: [worklog]
-image: 01.jpg
+image: 20250530.png
 excerpt: >
   Due to the Dragon Boat Festival, this week had fewer working days—but what a productive week it was! ✨
 ---
-
-
-# 🌟 Week 22 of 2025 – Work Summary
 
 Due to the Dragon Boat Festival, this week had fewer working days—but what a productive week it was! Despite the limited time, I achieved an intense, fulfilling, and well-paced rhythm 🧘‍♀️💻 It’s been a long time since I felt this much clarity, balance, and motivation in my workflow. This marks the beginning of a **new work mode**—steady, focused, and deeply rewarding. 
 
@@ -19,21 +16,24 @@ Due to the Dragon Boat Festival, this week had fewer working days—but what a p
 
 ### ✅ Deep Reading of a Key Paper
 
-> 📌 _Subgoal-Driven Navigation in Dynamic Environments Using Attention-Based Deep Reinforcement Learning_  
-> Although I wasn’t able to obtain the code, the paper is clear and complete—definitely reproducible!
+> <sub>📌 _Subgoal-Driven Navigation in Dynamic Environments Using Attention-Based Deep Reinforcement Learning_  
+> Although I wasn’t able to obtain the code, the paper is clear and complete — definitely reproducible!</sub>
 
-- [ ] Took detailed notes and reflected on what I’ve learned and possible areas to expand
-    
-- [ ] Skimmed through key references cited in the paper
-    
-- [ ] Reorganized my reference management system (the old one was too messy!)
-    
+<br>
+
+- [ ] **Took detailed notes** and reflected on what I’ve learned and possible areas to expand  
+- [ ] **Skimmed through key references** cited in the paper  
+- [ ] **Reorganized** my reference management system (the old one was too messy!)  
 - [ ] Planning to read **more broadly and consistently**
-    
+
+<br>
+
+---
 
 ### ✅ Built My Own GitHub Page 🎉
 
-> 🔗 [My GitHub Page – ZhangJingru-Ruby](https://zhangjingru-ruby.github.io/)
+<sub>🔗 <a href="https://zhangjingru-ruby.github.io/" style="color: #E16C90;">My GitHub Page – ZhangJingru-Ruby</a></sub>
+
 
 - [ ] Step-by-step setup with a clean template
     
