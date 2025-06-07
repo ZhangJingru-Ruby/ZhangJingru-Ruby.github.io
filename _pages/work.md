@@ -1,12 +1,11 @@
 ---
 layout: page
+title: Work
 permalink: /work/
 ---
 
-<h1 class="page-title work-title">Work</h1>
-
 <div class="work-intro">
-  Welcome to my **Work** page!  
+  Welcome to my Work page!  
   Here I document my ongoing research, projects, collaborations, and progress logs.  
   This space reflects not just my output, but also the process — the growth, the setbacks, and the teamwork that shapes it all. ✨
 </div>
