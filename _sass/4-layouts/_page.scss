@@ -8,6 +8,10 @@
     margin: 0;
   }
 
+  &.work-title {
+    padding-bottom: 20px !important;   /* was 50-80px */
+  }
+
   @media only screen and (max-width: $mobile) {
     padding: 40px 0;
 
@@ -65,11 +69,26 @@
 
 /* --- Work Page Layout --- */
 
+/* intro stays narrow */
+.work-intro {
+  max-width: 640px;          /* comfy reading width */
+  margin: 0 auto 2.5rem;     /* center + space below */
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* grid goes full-bleed */
 .work-grid {
+  /* take full viewport width */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);   /* pull left edge out */
+  margin-right: calc(50% - 50vw);  /* pull right edge out */
+
+  /* keep your earlier column/gap settings */
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 40px;
-  margin-top: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 32px;
+  padding: 0 4vw;                  /* small side-padding */
 }
 
 .work-block {

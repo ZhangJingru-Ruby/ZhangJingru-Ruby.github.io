@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Work
 permalink: /work/
 ---
 
-Welcome to my **Work** page!  
-Here I document my ongoing research, projects, collaborations, and progress logs.  
-This space reflects not just my output, but also the process — the growth, the setbacks, and the teamwork that shapes it all. ✨
+<h1 class="page-title work-title">Work</h1>
 
-<!-- This is the layout grid -->
+<div class="work-intro">
+  Welcome to my **Work** page!  
+  Here I document my ongoing research, projects, collaborations, and progress logs.  
+  This space reflects not just my output, but also the process — the growth, the setbacks, and the teamwork that shapes it all. ✨
+</div>
+
+<!-- full-width grid ↓ -->
 <div class="work-grid">
 
-  <!-- Work Log section -->
+  <!-- Work Log -->
   <div class="work-block">
     <h3>Work Log</h3>
     <p>My weekly logs tracking effort and reflection.</p>
@@ -19,7 +22,7 @@ This space reflects not just my output, but also the process — the growth, the
     <a href="{{ site.baseurl }}/tags/worklog" class="button">More →</a>
   </div>
 
-  <!-- Projects section -->
+  <!-- Projects -->
   <div class="work-block">
     <h3>Projects</h3>
     <p>My GitHub repos, code experiments, and personal builds.</p>
@@ -27,7 +30,7 @@ This space reflects not just my output, but also the process — the growth, the
     <a href="{{ site.baseurl }}/tags/projects" class="button">More →</a>
   </div>
 
-  <!-- Collaborations section -->
+  <!-- Collaborations -->
   <div class="work-block">
     <h3>Collaborations</h3>
     <p>Team efforts, lab mates, and shared experiments.</p>
@@ -35,7 +38,7 @@ This space reflects not just my output, but also the process — the growth, the
     <a href="{{ site.baseurl }}/tags/collaborations" class="button">More →</a>
   </div>
 
-  <!-- Publications section -->
+  <!-- Publications -->
   <div class="work-block">
     <h3>Publications</h3>
     <p>One day, this will bloom with my papers 🌸 (coming soon!)</p>
