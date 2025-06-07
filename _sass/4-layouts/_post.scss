@@ -4,10 +4,13 @@
 
   .post-title {
     margin-bottom: 10px;
-    width: 500px;
+    width: auto;
     max-width: 100%;
     font-size: 36px;
     line-height: 48px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .post__date {
@@ -63,10 +66,10 @@
 }
 
 .post {
-  margin: 80px auto;
+  margin: 30px auto 80px;
 
   &.post-no-image {
-    margin: 0 auto 80px; 
+    margin: 0 auto 60px; 
   }
 
   @media only screen and (max-width: $mobile) {
@@ -84,7 +87,7 @@
 
 .post__content {
   margin-bottom: 40px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.7;
   color: #333; // Optional, ensures legibility
 }
@@ -114,4 +117,10 @@
       }
     }
   }
+}
+
+.post-title-box .post__date,
+.post__tags .post__tags-tag:before {
+  color: $brand-color !important;
+  background: $brand-color;   /* for the dot */
 }
