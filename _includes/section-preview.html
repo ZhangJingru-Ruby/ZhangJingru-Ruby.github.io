@@ -1,20 +1,17 @@
 <section class="section-preview">
   {% assign tagged_posts = site.tags[include.tag] | slice: 0, include.limit %}
   {% for post in tagged_posts %}
-    <article class="article article--compact no-thumbnail">
-      <div class="article__content">
-        <h4 class="article__title">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h4>
-
-        <p class="article__excerpt">
-          {% if post.description %}
-            {{ post.description }}
-          {% else %}
-            {{ post.content | strip_html | truncate: 120 }}
-          {% endif %}
-        </p>
-      </div>
+    <article class="work-preview">
+      <h4 class="work-preview__title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h4>
+      <p class="work-preview__excerpt">
+        {% if post.description %}
+          {{ post.description }}
+        {% else %}
+          {{ post.content | strip_html | truncate: 120 }}
+        {% endif %}
+      </p>
     </article>
   {% endfor %}
 </section>

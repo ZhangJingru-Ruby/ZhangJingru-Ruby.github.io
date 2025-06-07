@@ -112,76 +112,46 @@
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
 
-/* --- Compact article card used inside .work-grid --- */
-
-.section-preview {           /* wrapper inside each work-block   */
+.section-preview {
   display: flex;
   flex-direction: column;
-  gap: 24px;
-  margin: 12px 0 0;
+  gap: 20px;
+  margin-top: 12px;
 }
 
-/* one card  (stretch edge-to-edge in the block) */
-.article--compact {
-  display: flex;
-  gap: 22px;
-  align-items: center;          /* vertically center thumbnail + text */
-  padding: 16px 20px;           /* 🆕 inner breathing */
-  border-radius: 10px;          /* subtle card look */
-  box-shadow: 0 2px 8px rgba(0,0,0,.05);  /* light shadow */
-  transition: box-shadow .2s ease;
+.work-preview {
+  padding: 18px 24px;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease;
 }
-.article--compact:hover { box-shadow: 0 4px 14px rgba(0,0,0,.07); }
 
-/* let text fill the rest of the row */
-.article--compact .article__content { flex: 1 1 auto; }
+.work-preview:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
 
-/* tighten fonts */
-.article--compact .article__title  { margin: 0 0 6px; font-size: 19px; line-height: 1.3; }
+.work-preview__title {
+  margin: 0 0 6px;
+  font-size: 18px;
+  color: $dark;
+  line-height: 1.4;
+}
 
-/* 🆕 2-line clamp so card stays short */
-.article--compact .article__excerpt {
-  margin: 0;
+.work-preview__title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.work-preview__excerpt {
   font-size: 15px;
   color: $gray;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-/* version without image */
-.article--compact.no-thumbnail {
-  padding: 16px 20px;
-  align-items: flex-start;
-  flex-direction: column; /* stack title + excerpt */
-  gap: 6px;
-  background: #fff;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-}
-
-.preview-post {
-  margin-bottom: 1rem;
-}
-
-.preview-post img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  margin-bottom: 8px;
-}
-
-.preview-post h4 {
-  margin: 0 0 5px;
-  font-size: 16px;
-  color: #222;
-}
-
-.preview-post p {
-  font-size: 14px;
-  color: #555;
   margin: 0;
+  line-height: 1.6;
+}
+
+.work-preview__title a:hover {
+  color: darken($dark, 10%);
 }
 
 .button {
