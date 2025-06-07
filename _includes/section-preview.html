@@ -1,20 +1,7 @@
-{% comment %}
-Compact version of the home-page article card.
-It re-uses the same .article__* classes so you inherit
-all the pretty fonts & hover effects.
-{% endcomment %}
-
 <section class="section-preview">
   {% assign tagged_posts = site.tags[include.tag] | slice: 0, include.limit %}
   {% for post in tagged_posts %}
-    <article class="article article--compact">
-      {% if post.image %}
-        <a  class="article__image"
-            href="{{ post.url | prepend: site.baseurl }}"
-            style="background-image:url({{ site.baseurl }}/images/{{ post.image }})">
-        </a>
-      {% endif %}
-
+    <article class="article article--compact no-thumbnail">
       <div class="article__content">
         <h4 class="article__title">
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
