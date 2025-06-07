@@ -62,3 +62,70 @@
     }
   }
 }
+
+/* --- Work Page Layout --- */
+
+.work-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 40px;
+  margin-top: 2rem;
+}
+
+.work-block {
+  background: #fdfdfd;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  transition: box-shadow 0.2s ease;
+}
+
+.work-block:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.section-preview {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.preview-post {
+  margin-bottom: 1rem;
+}
+
+.preview-post img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.preview-post h4 {
+  margin: 0 0 5px;
+  font-size: 16px;
+  color: #222;
+}
+
+.preview-post p {
+  font-size: 14px;
+  color: #555;
+  margin: 0;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background-color: #e16c90; // your Ruby Blush 💖
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.button:hover {
+  background-color: #c65978;
+}
