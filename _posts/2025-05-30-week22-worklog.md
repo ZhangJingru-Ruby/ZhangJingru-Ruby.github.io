@@ -15,10 +15,8 @@ Due to the Dragon Boat Festival, this week had fewer working days—but what a p
 
 ### ✅ Deep Reading of a Key Paper
 
-<sub>📌 _Subgoal-Driven Navigation in Dynamic Environments Using Attention-Based Deep Reinforcement Learning_  
-Although I wasn’t able to obtain the code, the paper is clear and complete — definitely reproducible!</sub>
-
----
+📌 _Subgoal-Driven Navigation in Dynamic Environments Using Attention-Based Deep Reinforcement Learning_  
+Although I wasn’t able to obtain the code, the paper is clear and complete — definitely reproducible!
 
 ### ✅ Built My Own GitHub Page 🎉
 
@@ -76,7 +74,7 @@ Reflected and identified improvements
 
 ### ✅ IELTS Registration
 
-> 📅 Exam Date: July 5th
+📅 Exam Date: July 5th
 
 Registered and downloaded the admission ticket  
 
