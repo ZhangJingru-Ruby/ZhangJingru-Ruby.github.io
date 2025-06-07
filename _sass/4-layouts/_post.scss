@@ -1,5 +1,5 @@
 .post-title-box {
-  padding: 80px 0;
+  padding: 50px 0;
   border-top: 1px solid #E16C90;
 
   .post-title {
@@ -66,10 +66,10 @@
 }
 
 .post {
-  margin: 30px auto 80px;
+  margin: 10px auto 30px;
 
   &.post-no-image {
-    margin: 0 auto 60px; 
+    margin: 0 auto 20px; 
   }
 
   @media only screen and (max-width: $mobile) {
@@ -119,8 +119,3 @@
   }
 }
 
-.post-title-box .post__date,
-.post__tags .post__tags-tag:before {
-  color: $brand-color !important;
-  background: $brand-color;   /* for the dot */
-}
