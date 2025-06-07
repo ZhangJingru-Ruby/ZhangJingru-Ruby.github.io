@@ -15,12 +15,13 @@ $global-transition: all .35s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #E16C90;
-$dark: #393e46;
-$gray: #bbbbbb;
-$light-gray: #e6eef0;
+$brand-color: #E16C90; // Ruby Blush 💖
+$dark: #630828;        // Deep Plum — for headers, bold text
+$gray: #b77e90;        // Mauve Dust — soft neutral for icons, muted notes
+$light-gray: #F5EBED;  // Rose Mist — backgrounds, dividers
 $white: #ffffff;
 $black: #000000;
+
 
 // Background Colors
 $background-color: $white;
@@ -46,7 +47,7 @@ $border-color: $light-gray;
 // *****************
 // Typography
 // *****************
-$base-font-size: 16px;
+$base-font-size: 24px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
