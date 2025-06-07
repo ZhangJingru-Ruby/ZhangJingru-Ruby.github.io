@@ -112,10 +112,42 @@
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
 
-.section-preview {
-  list-style: none;
-  margin: 1rem 0;
-  padding: 0;
+/* --- Compact article card used inside .work-grid --- */
+
+.section-preview {           /* wrapper inside each work-block   */
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 12px 0 0;
+}
+
+/* one card */
+.article--compact {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+
+/* tiny square cover */
+.article--compact .article__image {
+  flex: 0 0 80px;
+  width: 80px;
+  height: 80px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: center;
+}
+
+/* tighten fonts so three lines max */
+.article--compact .article__title {
+  margin: 0 0 4px;
+  font-size: 17px;
+  line-height: 1.35;
+}
+.article--compact .article__excerpt {
+  margin: 0;
+  font-size: 14px;
+  color: $gray;
 }
 
 .preview-post {
