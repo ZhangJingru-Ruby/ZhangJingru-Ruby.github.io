@@ -2,25 +2,55 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: 02.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+<!-- =====================
+  Hero Section
+  ===================== -->
+<section class="about-hero flex flex-col md:flex-row items-start gap-6 mb-10">
+  <!-- Profile photo -->
+  <figure class="w-40 md:w-48 lg:w-56 shrink-0">
+    <!-- Replace 01.jpg with your actual image if different -->
+    <img src="{{ '/images/01.jpg' | relative_url }}" alt="Profile photo of Ruby Zhang" class="rounded-2xl shadow-md">
+  </figure>
 
-***
+  <!-- Elevator pitch -->
+  <div class="flex-1">
+    <h1 class="text-2xl md:text-3xl font-semibold leading-tight mb-2">
+      Prospective PhD Candidate in Hierarchical Reinforcement Learning for Safe Autonomous Robots
+    </h1>
+    <p class="text-base md:text-lg leading-relaxed">
+      Hi, I’m <strong>Ruby Zhang (张景茹)</strong> — an aspiring researcher exploring scalable, adaptable navigation for real‑world robots.
+      My work bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.
+      I’m currently completing my M.S. at UESTC and actively seeking a PhD position starting <strong>Fall 2026</strong>. Let’s build the future of intelligent mobility together! 🐇✨
+    </p>
+  </div>
+</section>
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+<!-- =====================
+  Content Place‑holders
+  ===================== -->
+## Research Focus
+<!-- TODO: Summarize key themes, link to papers/posts -->
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+## Current Role & Education
+<!-- TODO: Insert degree info, GPA, etc. -->
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+## Signature Projects
+<!-- TODO: Brief bullet mini‑case studies -->
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+## Publications & Manuscripts
+<!-- TODO: List papers / in‑prep work -->
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+## Skills & Tooling
+<!-- TODO: Bullet list -->
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+## Honors & Awards
+<!-- TODO -->
+
+## Leadership & Outreach
+<!-- TODO -->
+
+## Contact
+<!-- TODO: Email, GitHub, CV download button -->
