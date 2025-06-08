@@ -67,6 +67,39 @@
   }
 }
 
+/* --- About page profile layout --- */
+
+.about-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1rem;
+}
+
+.about-hero figure img {
+  width: 100%;
+  max-width: 180px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
+
+.about-hero h1 {
+  font-size: 24px;
+  margin: 0 0 0.5rem;
+  color: $dark;
+}
+
+.about-hero p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: $gray;
+}
+
+
 /* --- Work Page Layout --- */
 
 /* intro stays narrow */
