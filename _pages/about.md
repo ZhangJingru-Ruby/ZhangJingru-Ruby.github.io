@@ -10,9 +10,9 @@ permalink: /about/
   </div>
 
   <div class="about-intro">
-    <p>Hi, I’m <strong>Ruby Zhang (张景茹)</strong> — an aspiring researcher exploring  scalable, adaptable navigation for real‑world robots.</p>
-    <p>My work bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.</p>
-    <p>I’m currently completing my M.S. at UESTC and actively seeking a PhD position starting <strong>Fall 2027</strong>. Let’s build the future of intelligent mobility together! 🐇✨</p>
+    <p>Hi, I’m <strong>Ruby Zhang (张景茹)</strong>.</p>
+    <p>My current work is focusing on bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.</p>
+    <p>I’m currently completing my M.S. at UESTC and actively seeking a PhD position starting <strong>Fall 2027</strong>.</p>
   </div>
 </div>
 
