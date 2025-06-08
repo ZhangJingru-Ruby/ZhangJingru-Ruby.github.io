@@ -11,7 +11,7 @@ permalink: /about/
   <!-- Profile photo -->
   <figure class="w-40 md:w-48 lg:w-56 shrink-0">
     <!-- Replace 01.jpg with your actual image if different -->
-    <img src="{{ site.baseurl }}/images/02.jpg" alt="Profile photo of Ruby Zhang" class="rounded-2xl shadow-md">
+    <img src="{{ '/images/02.jpg' | relative_url }}" alt="Profile photo of Ruby Zhang" class="rounded-2xl shadow-md">
   </figure>
 
   <!-- Elevator pitch -->
