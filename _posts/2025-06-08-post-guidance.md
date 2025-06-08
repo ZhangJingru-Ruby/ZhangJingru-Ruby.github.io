@@ -22,7 +22,7 @@ Inside `_posts/`, create a new file. The filename must follow this pattern:
 YYYY-MM-DD-title-of-your-post.md
 ```
 
-> Example:
+Example:
 ```
 2025-06-09-how-to-add-post.md
 ```
