@@ -9,7 +9,7 @@ description: A step-by-step guide I wrote for myself (and future me!) on how to 
 
 ## 🪄 Step 1: Create Your New Markdown File
 
-In your project folder, navigate to:
+In the project folder, navigate to:
 
 ```
 _pages/      ← for pages like About, Notes, etc.  
@@ -31,7 +31,7 @@ Example:
 
 ## 📝 Step 2: Add the Standard Front Matter
 
-At the top of your post file, paste this (and adjust it!):
+At the top of the post file, paste this (and adjust it!):
 
 ```yaml
 ---
@@ -44,11 +44,11 @@ description: A short one-sentence teaser for preview cards.
 ---
 ```
 
-> 🐣 If you're not using an image, just remove the `image:` line.
+🐣 If not using an image, just remove the `image:` line.
 
 ---
 
-## ✍️ Step 3: Write Your Content
+## ✍️ Step 3: Write Content
 
 Use **Markdown syntax** as usual.
 
@@ -64,7 +64,7 @@ git commit -m "📝 Add guide for writing and publishing a new post"
 git push origin main
 ```
 
-Your post will appear automatically under the corresponding section in `/work/`, `/notes/`, or the tag archives!
+The post will appear automatically under the corresponding section in `/work/`, `/notes/`, or the tag archives!
 
 ---
 
@@ -72,7 +72,7 @@ Your post will appear automatically under the corresponding section in `/work/`,
 
 - Keep image files in `/images/`
 - Use `description:` for prettier previews
-- Use one of your existing tags like `rl`, `coding`, `teaching`, `worklog`, `projects`, etc
+- Use one of the existing tags like `rl`, `coding`, `teaching`, `worklog`, `projects`, etc
 - Preview locally with:
   ```bash
   bundle exec jekyll serve
