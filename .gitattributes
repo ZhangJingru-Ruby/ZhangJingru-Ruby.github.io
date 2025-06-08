@@ -1,0 +1,2 @@
+# Force consistent LF endings (fixes those CRLF warnings on Windows)
+* text=auto
