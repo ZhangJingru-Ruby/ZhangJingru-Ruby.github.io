@@ -1,31 +1,22 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-<!-- =====================
-  Hero Section
-  ===================== -->
-<section class="about-hero flex flex-col md:flex-row items-start gap-6 mb-10">
-  <!-- Profile photo -->
-  <figure class="w-40 md:w-48 lg:w-56 shrink-0">
-    <!-- Replace 01.jpg with your actual image if different -->
-    <img src="{{ '/images/02.jpg' | relative_url }}" alt="Profile photo of Ruby Zhang" class="rounded-2xl shadow-md">
-  </figure>
-
-  <!-- Elevator pitch -->
-  <div class="flex-1">
-    <h1 class="text-2xl md:text-3xl font-semibold leading-tight mb-2">
-      Prospective PhD Candidate in Hierarchical Reinforcement Learning for Safe Autonomous Robots
-    </h1>
-    <p class="text-base md:text-lg leading-relaxed">
-      Hi, I’m <strong>Ruby Zhang (张景茹)</strong> — an aspiring researcher exploring scalable, adaptable navigation for real‑world robots.
-      My work bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.
-      I’m currently completing my M.S. at UESTC and actively seeking a PhD position starting <strong>Fall 2026</strong>. Let’s build the future of intelligent mobility together! 🐇✨
-    </p>
+<div class="about-wrapper">
+  <div class="about-image">
+    <img src="{{ site.baseurl }}/images/01.jpg" alt="Zhang Jingru profile photo" />
   </div>
-</section>
+
+  <div class="about-intro">
+    <p><strong>Hi, I’m Zhang Jingru</strong> — or Ruby, if you prefer a sparkly nickname. ✨</p>
+    <p>Hi, I’m <strong>Ruby Zhang (张景茹)</strong> — an aspiring researcher exploring  scalable, adaptable navigation for real‑world robots.
+      My work bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.
+      I’m currently completing my M.S. at UESTC and actively seeking a PhD position starting <strong>Fall 2027</strong>. Let’s build the future of intelligent mobility together! 🐇✨</p>
+    <p>Welcome to my little corner of the internet — I hope you stay a while.</p>
+  </div>
+</div>
 
 <!-- =====================
   Content Place‑holders
