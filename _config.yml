@@ -1,0 +1,42 @@
+# Site Settings
+title: Zhang Jingru | Ruby
+description: A personal academic site documenting my research, ideas, and inspirations.
+baseurl: "" 
+url: "https://zhangjingru-ruby.github.io"
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 5
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Categories
+collections:
+  categories:
+    output: true
+
+defaults:
+  - scope:
+      path: "categories"
+    values:
+      layout: category_page
+
+# Sass Settings
+sass:
+  sass_dir: _sass
+  style: compressed

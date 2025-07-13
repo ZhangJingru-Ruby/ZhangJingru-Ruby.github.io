@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: Zhang Jingru | Ruby
+logo: logo.svg # You can add own logo.
+description: A personal academic site documenting my research progress, ideas, and inspirations.
+
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Zhang Jingru  
+  image: 01.jpg
+  say-hello: Hello, I'm <strong>Jingru Zhang</strong>.
+  bio:  I'm an aspiring researcher in <strong>robotics and artificial intelligence</strong>,
+        with a passion for <strong>intelligent navigation</strong>, <strong>reinforcement learning</strong>, and <strong>autonomy systems</strong>.
+
+#-------------------------------
+# Contact links
+linkedin: https://www.linkedin.com/in/景茹-张-146665357
+email: mailto:rubyrubber2001824@gmail.com
+edu-email: mailto:202421100204@std.uestc.edu.cn
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

@@ -1,0 +1,17 @@
+<section class="section-preview">
+  {% assign matched_posts = site.posts | where_exp: "post", "post.categories contains include.category" | slice: 0, include.limit %}
+  {% for post in matched_posts %}
+    <article class="work-preview">
+      <h4 class="work-preview__title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h4>
+      <p class="work-preview__excerpt">
+        {% if post.description %}
+          {{ post.description }}
+        {% else %}
+          {{ post.content | strip_html | truncate: 120 }}
+        {% endif %}
+      </p>
+    </article>
+  {% endfor %}
+</section>
