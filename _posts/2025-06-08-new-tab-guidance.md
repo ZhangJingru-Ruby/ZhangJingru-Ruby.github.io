@@ -87,5 +87,4 @@ Boom. The new section is live! It’ll appear inside the tab page (like Notes or
 
 - Want to style the tag page layout? Edit `_layouts/tag_page.html`
 - Want to sort by date or title? Add sorting logic in `section-preview.html`
-- Want to hide empty sections? Wrap them in `{% if site.tags.rl.size > 0 %}`
 
