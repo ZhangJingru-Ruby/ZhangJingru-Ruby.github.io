@@ -25,17 +25,6 @@ defaults:
 include:
   - _pages
 
-# Categories
-collections:
-  categories:
-    output: true
-
-defaults:
-  - scope:
-      path: "categories"
-    values:
-      layout: category_page
-
 # Sass Settings
 sass:
   sass_dir: _sass
