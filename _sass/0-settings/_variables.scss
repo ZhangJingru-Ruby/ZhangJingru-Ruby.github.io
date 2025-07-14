@@ -16,7 +16,7 @@ $global-transition: all .35s;
 // Color Variables
 // *****************
 $brand-color: #E16C90; // Ruby Blush 💖
-$dark: #630828;        // Deep Plum — for headers, bold text
+$dark: #21030d;        // Deep Plum — for headers, bold text
 $gray: #b77e90;        // Mauve Dust — soft neutral for icons, muted notes
 $light-gray: #F5EBED;  // Rose Mist — backgrounds, dividers
 $white: #ffffff;
@@ -29,7 +29,7 @@ $background-color: $white;
 $text-color: $black;
 
 // Headings
-$heading-font-color: $black;
+$heading-font-color: $dark;
 
 // Links
 $link-color: $brand-color;
