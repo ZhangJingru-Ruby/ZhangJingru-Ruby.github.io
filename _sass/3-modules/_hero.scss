@@ -25,6 +25,26 @@
       letter-spacing: 0.5px;
     }
 
+    .hero__cta {
+      margin-top: 18px;
+    }
+
+    .hero__button {
+      display: inline-block;
+      font-size: 14px;
+      padding: 8px 16px;
+      border-radius: 6px;
+      background-color: $brand-color; // Ruby Blush 💖
+      color: $white;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: darken($brand-color, 10%);
+      }
+    }
+
     .hero__social {
       display: flex;
     }
