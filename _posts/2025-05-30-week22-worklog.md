@@ -2,7 +2,7 @@
 layout: post
 title: Week 22 of 2025 – Work Summary
 date: 2025-06-01
-category: [worklog]
+category: worklog
 image: 20250530.png
 excerpt: >
   Due to the Dragon Boat Festival, this week had fewer working days—but what a productive week it was! ✨
