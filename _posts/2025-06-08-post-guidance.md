@@ -2,7 +2,7 @@
 layout: post
 title: "How to Add a New Post to My Website"
 date: 2025-06-08
-category: coding
+categories: [coding]
 image: 20250608-2.jpg
 description: A step-by-step guide I wrote for myself (and future me!) on how to write, style, and publish a new post on my GitHub-powered site 💻✨
 ---
