@@ -2,7 +2,7 @@
 layout: post
 title: "How to Add a New Tab Section to My Website (Like 'rl' or 'worklog')"
 date: 2025-06-08
-categories: [coding]
+category: [coding]
 image: 20250608.jpg
 description: A personal guide on how to add a new tag-based section to my site, complete with a preview block and tag archive. Think 'rl', 'coding', 'teaching'... 🌟
 ---
