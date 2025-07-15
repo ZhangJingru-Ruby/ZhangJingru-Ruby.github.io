@@ -4,25 +4,21 @@ title: About Me
 permalink: /about/
 ---
 
-<div class="page-title-box">
-  <div class="row">
-    <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
-      <h1 class="page-title">{{ page.title }}</h1>
+<section class="about-hero">
+  <div class="container">
+    <div class="about-wrapper">
+      <div class="about-image">
+        <img src="{{ site.baseurl }}/images/02.jpg" alt="Zhang Jingru profile photo" />
+      </div>
+
+      <div class="about-intro">
+        <p>Hi, I’m <strong>Ruby Zhang (张景茹)</strong>.</p>
+        <p>My current work is focusing on bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.</p>
+        <p>I’m currently completing my M.S. at University of Electronic Science and Technology of China (UESTC) and actively seeking a PhD position starting <strong>Fall 2027</strong>.</p>
+      </div>
     </div>
   </div>
-</div>
-
-<div class="about-wrapper">
-  <div class="about-image">
-    <img src="{{ site.baseurl }}/images/02.jpg" alt="Zhang Jingru profile photo" />
-  </div>
-
-  <div class="about-intro">
-    <p>Hi, I’m <strong>Ruby Zhang (张景茹)</strong>.</p>
-    <p>My current work is focusing on bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.</p>
-    <p>I’m currently completing my M.S. at University of Electronic Science and Technology of China (UESTC) and actively seeking a PhD position starting <strong>Fall 2027</strong>.</p>
-  </div>
-</div>
+</section>
 
 <div style="margin-top: 4rem;"></div>
 
