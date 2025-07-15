@@ -5,7 +5,7 @@ permalink: /notes/
 ---
 
 <div class="work-intro">
-  Welcome to my **Notes** page!  
+  Welcome to my Notes page!  
   This space gathers my learnings, mistakes, reflections, and study guides as I grow in both understanding and teaching. ✨
   It’s a home for everything in progress — a snapshot of how I learn.
 </div>
