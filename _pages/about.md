@@ -4,6 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
+<div class="page-title-box">
+  <div class="row">
+    <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
+      <h1 class="page-title">{{ page.title }}</h1>
+    </div>
+  </div>
+</div>
+
 <div class="about-wrapper">
   <div class="about-image">
     <img src="{{ site.baseurl }}/images/02.jpg" alt="Zhang Jingru profile photo" />
@@ -16,8 +24,9 @@ permalink: /about/
   </div>
 </div>
 
+<div style="margin-top: 4rem;"></div>
 
-## 🎓 Education
+## 🎓 Educations
 
 - **M.Sc. Aerospace Science and Technology (AI Focus)** | **UESTC** | *Sep 2024 – Present*  
 - **B.Eng. Aircraft Control and Information Engineering** | **UESTC** | *Sep 2020 – Jun 2024*  
@@ -25,7 +34,7 @@ permalink: /about/
 
 ## 🚀 Research & Projects
 
-### 🛫 Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios *(National Key R&D Project, 2024 – Present)*
+#### 🛫 Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios *(National Key R&D Project, 2024 – Present)*
 
 - **Responsibility**: Independently researching autonomous conflict avoidance methods for multi-objective operational scenarios on airport aprons.
 - **Main focus**: Developed and implemented an innovative Hierarchical Reinforcement Learning (RL) optimization algorithm to improve autonomous navigation in highly dynamic environments.
@@ -33,23 +42,23 @@ permalink: /about/
 - **Collaborations**: Collaborated cross-functionally within the research team, ensuring system-level integration by working with ROS and SLAM-based modules. Also contributed to adjacent projects, including a vision-language question-answering system based on large-scale remote sensing data.
 - **Outcomes**: One first-author paper under submission to ICRA 2025 and one invention patent in process. Codebase and methodological highlights are available on my GitHub.
 
-### 🧠 Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery on Domestic Hardware *(Jun 2025 – Aug 2025)*
+#### 🧠 Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery on Domestic Hardware *(Jun 2025 – Aug 2025)*
 
 - Developed and deployed a deep learning-based trajectory prediction and intent recognition system for drone payload imagery, optimized for execution on domestic AI hardware platforms.
 - Focused on building the inference engine, ensuring real-time performance and robustness in dynamic flight scenarios.
 - Currently participating in the ongoing competition phase as part of a national-level Challenge Cup initiative.
 
-### 🤖 Tello Drone Vision-Based Object Tracking *(Undergraduate Thesis, Oct 2023 – Jun 2024)*
+#### 🤖 Tello Drone Vision-Based Object Tracking *(Undergraduate Thesis, Oct 2023 – Jun 2024)*
 
 - Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
 
-### 📡 National Intelligent Robotics Innovation Competition *(May 2022 – Aug 2022)*
+#### 📡 National Intelligent Robotics Innovation Competition *(May 2022 – Aug 2022)*
 
 - Led software architecture, mechanical design, and final presentation.
 - Developed an intelligent refrigerator capable of automatic identification, food analysis, and hygiene reminders.
 - Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
 
-### 🚗 Precision Positioning for Embedded Smart Car *(Modern Electronics Project, Sep 2022 – Nov 2022)*
+#### 🚗 Precision Positioning for Embedded Smart Car *(Modern Electronics Project, Sep 2022 – Nov 2022)*
 
 - Led software development and system debugging for a smart car capable of fast and accurate positioning.
 - Designed and implemented control algorithms using an STC89C52 RC microcontroller and developed in the Keil uVision5 environment.
