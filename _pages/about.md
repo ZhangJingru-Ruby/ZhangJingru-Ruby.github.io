@@ -57,7 +57,8 @@ permalink: /about/
 
 ## 🚀 Research & Projects
 
-#### Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios *(National Key R&D Project, 2024 – Present)*
+#### Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios 
+#### *(National Key R&D Project, 2024 – Present)*
 
 **Responsibility**\
 Independently researching autonomous conflict avoidance methods for multi-objective operational scenarios on airport aprons.\
@@ -68,26 +69,39 @@ Collaborated cross-functionally within the research team, ensuring system-level 
 **Outcomes**\
 One first-author paper under submission to ICRA 2025 and one invention patent in process. Codebase and methodological highlights are available on my GitHub.
 
-#### Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery *(Jun 2025 – Aug 2025)*
+#### Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery 
+#### *(Jun 2025 – Aug 2025)*
 
-- **What we did**: Developed a real-time intelligent perceptioin and inference system for UAV based on vision that can identify scene and objects and recognize intention.
-- **My work**: Developed and deployed a deep learning-based trajectory prediction and intent recognition system for drone payload imagery, optimized for execution on domestic AI hardware platforms.
-- **Outcomes**: Currently participating in the ongoing competition phase as part of a national-level Challenge Cup initiative.
+**What we did**\
+Developed a real-time intelligent perceptioin and inference system for UAV based on vision that can identify scene and objects and recognize intention.\
+**My work**\
+Developed and deployed a deep learning-based trajectory prediction and intent recognition system for drone payload imagery, optimized for execution on domestic AI hardware platforms.\
+**Outcomes**\
+Currently participating in the ongoing competition phase as part of a national-level Challenge Cup initiative.
 
-#### Tello Drone Vision-Based Object Tracking *(Undergraduate Thesis, Oct 2023 – Jun 2024)*
+#### Tello Drone Vision-Based Object Tracking 
+#### *(Undergraduate Thesis, Oct 2023 – Jun 2024)*
 
-- **My work**: Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
+**My work**\
+Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
 
-#### National Intelligent Robotics Innovation Competition *(May 2022 – Aug 2022)*
+#### National Intelligent Robotics Innovation Competition 
+#### *(May 2022 – Aug 2022)*
 
-- **What we did**: Developed an intelligent refrigerator capable of automatic identification, food analysis, and hygiene reminders.
-- **My work**: Led software architecture, mechanical design, and final presentation.
-- **Outcomes**: Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
+**What we did**\
+Developed an intelligent refrigerator capable of automatic identification, food analysis, and hygiene reminders.\
+**My work**\
+Led software architecture, mechanical design, and final presentation.\
+**Outcomes**\
+Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
 
-#### Precision Positioning for Embedded Smart Car *(Modern Electronics Project, Sep 2022 – Nov 2022)*
+#### Precision Positioning for Embedded Smart Car 
+#### *(Modern Electronics Project, Sep 2022 – Nov 2022)*
 
-- **My work**: Designed and implemented control algorithms for a smart car capable of fast and accurate positionin using an STC89C52 RC microcontroller and developed in the Keil uVision5 environment.
-- **Outcomes**: Successfully demonstrated real-time localization on a physical car platform, contributing to coursework excellence and hands-on embedded systems training.
+**My work**\
+Designed and implemented control algorithms for a smart car capable of fast and accurate positionin using an STC89C52 RC microcontroller and developed in the Keil uVision5 environment.\
+**Outcomes**\
+Successfully demonstrated real-time localization on a physical car platform, contributing to coursework excellence and hands-on embedded systems training.
 
 ---
 
