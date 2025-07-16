@@ -69,8 +69,8 @@ Collaborated cross-functionally within the research team, ensuring system-level 
 **Outcomes**\
 One first-author paper under submission to ICRA 2025 and one invention patent in process. Codebase and methodological highlights are available on my GitHub.
 
-#### Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery 
-#### *(Jun 2025 – Aug 2025)*
+#### <span class="ruby-title">Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery</span>  
+*Jun 2025 – Aug 2025*
 
 **What we did**\
 Developed a real-time intelligent perceptioin and inference system for UAV based on vision that can identify scene and objects and recognize intention.\
@@ -79,13 +79,13 @@ Developed and deployed a deep learning-based trajectory prediction and intent re
 **Outcomes**\
 Currently participating in the ongoing competition phase as part of a national-level Challenge Cup initiative.
 
-#### Tello Drone Vision-Based Object Tracking 
-#### *(Undergraduate Thesis, Oct 2023 – Jun 2024)*
+#### <span class="ruby-title">Tello Drone Vision-Based Object Tracking</span>  
+<em class="ruby-sub">*Undergraduate Thesis, Oct 2023 – Jun 2024*</em>
 
 **My work**\
 Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
 
-#### National Intelligent Robotics Innovation Competition 
+#### <span class="ruby-title">National Intelligent Robotics Innovation Competition</span>  
 #### *(May 2022 – Aug 2022)*
 
 **What we did**\
@@ -95,7 +95,7 @@ Led software architecture, mechanical design, and final presentation.\
 **Outcomes**\
 Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
 
-#### Precision Positioning for Embedded Smart Car 
+#### <span class="ruby-title">Precision Positioning for Embedded Smart Car 
 #### *(Modern Electronics Project, Sep 2022 – Nov 2022)*
 
 **My work**\
