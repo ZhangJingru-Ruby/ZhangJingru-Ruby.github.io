@@ -58,7 +58,7 @@ permalink: /about/
 ## 🚀 Research & Projects
 
 #### <span class="ruby-title">Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios</span>  
-#### <em class="ruby-sub">(*National Key R&D Project, 2024 – Present*)</em>
+<em class="ruby-sub">(*National Key R&D Project, 2024 – Present*)</em>
 
 **Responsibility**\
 Independently researching autonomous conflict avoidance methods for multi-objective operational scenarios on airport aprons.\
@@ -70,7 +70,7 @@ Collaborated cross-functionally within the research team, ensuring system-level 
 One first-author paper under submission to ICRA 2025 and one invention patent in process. Codebase and methodological highlights are available on my GitHub.
 
 #### <span class="ruby-title">Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery</span>  
-*Jun 2025 – Aug 2025*
+<em class="ruby-sub">*(Jun 2025 – Aug 2025)*</em>
 
 **What we did**\
 Developed a real-time intelligent perceptioin and inference system for UAV based on vision that can identify scene and objects and recognize intention.\
@@ -86,7 +86,7 @@ Currently participating in the ongoing competition phase as part of a national-l
 Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
 
 #### <span class="ruby-title">National Intelligent Robotics Innovation Competition</span>  
-#### *(May 2022 – Aug 2022)*
+<em class="ruby-sub">*(May 2022 – Aug 2022)*</em>
 
 **What we did**\
 Developed an intelligent refrigerator capable of automatic identification, food analysis, and hygiene reminders.\
@@ -96,7 +96,7 @@ Led software architecture, mechanical design, and final presentation.\
 Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
 
 #### <span class="ruby-title">Precision Positioning for Embedded Smart Car 
-#### *(Modern Electronics Project, Sep 2022 – Nov 2022)*
+<em class="ruby-sub">*(Modern Electronics Project, Sep 2022 – Nov 2022)*</em>
 
 **My work**\
 Designed and implemented control algorithms for a smart car capable of fast and accurate positionin using an STC89C52 RC microcontroller and developed in the Keil uVision5 environment.\
