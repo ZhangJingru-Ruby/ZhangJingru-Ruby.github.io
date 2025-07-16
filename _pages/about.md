@@ -36,41 +36,39 @@ permalink: /about/
 #### Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios *(National Key R&D Project, 2024 – Present)*
 
 - **Responsibility**: Independently researching autonomous conflict avoidance methods for multi-objective operational scenarios on airport aprons.
-- **Main focus**: Developed and implemented an innovative Hierarchical Reinforcement Learning (RL) optimization algorithm to improve autonomous navigation in highly dynamic environments.
-- **Technologies**: PyTorch, RLlib, OpenAI Gym, ROS, SLAM.
+- **My work**: Developed and implemented an innovative Hierarchical Reinforcement Learning (RL) optimization algorithm to improve autonomous navigation in highly dynamic environments.
 - **Collaborations**: Collaborated cross-functionally within the research team, ensuring system-level integration by working with ROS and SLAM-based modules. Also contributed to adjacent projects, including a vision-language question-answering system based on large-scale remote sensing data.
 - **Outcomes**: One first-author paper under submission to ICRA 2025 and one invention patent in process. Codebase and methodological highlights are available on my GitHub.
 
 #### Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery *(Jun 2025 – Aug 2025)*
 
-- Developed and deployed a deep learning-based trajectory prediction and intent recognition system for drone payload imagery, optimized for execution on domestic AI hardware platforms.
-- Focused on building the inference engine, ensuring real-time performance and robustness in dynamic flight scenarios.
-- Currently participating in the ongoing competition phase as part of a national-level Challenge Cup initiative.
+- **What we did**: Developed a real-time intelligent perceptioin and inference system for UAV based on vision that can identify scene and objects and recognize intention.
+- **My work**: Developed and deployed a deep learning-based trajectory prediction and intent recognition system for drone payload imagery, optimized for execution on domestic AI hardware platforms.
+- **Outcomes**: Currently participating in the ongoing competition phase as part of a national-level Challenge Cup initiative.
 
 #### Tello Drone Vision-Based Object Tracking *(Undergraduate Thesis, Oct 2023 – Jun 2024)*
 
-- Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
+- **My work**: Designed and implemented a real-time object identification and tracking system using DJI Tello drones.
 
 #### National Intelligent Robotics Innovation Competition *(May 2022 – Aug 2022)*
 
-- Led software architecture, mechanical design, and final presentation.
-- Developed an intelligent refrigerator capable of automatic identification, food analysis, and hygiene reminders.
-- Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
+- **What we did**: Developed an intelligent refrigerator capable of automatic identification, food analysis, and hygiene reminders.
+- **My work**: Led software architecture, mechanical design, and final presentation.
+- **Outcomes**: Awarded 1st Prize (Sichuan Province), 2nd Prize (National).
 
 #### Precision Positioning for Embedded Smart Car *(Modern Electronics Project, Sep 2022 – Nov 2022)*
 
-- Led software development and system debugging for a smart car capable of fast and accurate positioning.
-- Designed and implemented control algorithms using an STC89C52 RC microcontroller and developed in the Keil uVision5 environment.
-- Successfully demonstrated real-time localization on a physical car platform, contributing to coursework excellence and hands-on embedded systems training.
+- **My work**: Designed and implemented control algorithms for a smart car capable of fast and accurate positionin using an STC89C52 RC microcontroller and developed in the Keil uVision5 environment.
+- **Outcomes**: Successfully demonstrated real-time localization on a physical car platform, contributing to coursework excellence and hands-on embedded systems training.
 
 ---
 
 ## 🏆 Honors & Achievements
 
-**Overall Achievements:**
+**Overall Achievements**
 - Provincial Outstanding Graduate, Sichuan Province, 2024
 
-**Academic Achievements:**
+**Academic Achievements**
 - First-Class Comprehensive Academic Performance (Ranked 1st in Undergraduate Program)
 - Excellent Participant, Summer Research Camps at Shanghai Jiaotong University, Zhejiang University, Fudan University, and National University of Defense Technology
 
@@ -91,6 +89,8 @@ permalink: /about/
 - **Frameworks & Libraries:** PyTorch, RLlib, ROS, SLAM, OpenAI Gym
 - **Languages:** English (IELTS 7.5), CET-4: 609, CET-6: 622
 
+---
+
 ## 🌟 Teaching & Leadership
 
 - **Teaching Assistant** for courses: "Introduction to Aerospace Engineering in the Information Age" and "Introduction to Engineering"
@@ -101,6 +101,7 @@ permalink: /about/
 
 ## 📬 Get in Touch
 
+- Lindlin: [Zhang Jingru](https://www.linkedin.com/in/景茹-张-146665357)
 - Email: [202421100204@std.uestc.edu.cn](mailto:202421100204@std.uestc.edu.cn)
 - GitHub: [ZhangJingru-Ruby](https://github.com/ZhangJingru-Ruby)
 
