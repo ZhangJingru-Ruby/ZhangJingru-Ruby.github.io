@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 张景茹
-permalink: /about/
+permalink: /个人简历/
 ---
 
 <section class="about-hero">
