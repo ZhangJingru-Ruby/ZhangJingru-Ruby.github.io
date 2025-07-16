@@ -59,20 +59,13 @@ permalink: /about/
 
 #### Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios *(National Key R&D Project, 2024 – Present)*
 
-**Responsibility**
-
-Independently researching autonomous conflict avoidance methods for multi-objective operational scenarios on airport aprons.
-
-**My work**
-
-Developed and implemented an innovative Hierarchical Reinforcement Learning (RL) optimization algorithm to improve autonomous navigation in highly dynamic environments.
-
-**Collaborations**
-
-Collaborated cross-functionally within the research team, ensuring system-level integration by working with ROS and SLAM-based modules. Also contributed to adjacent projects, including a vision-language question-answering system based on large-scale remote sensing data.
-
-**Outcomes**
-
+**Responsibility**\
+Independently researching autonomous conflict avoidance methods for multi-objective operational scenarios on airport aprons.\
+**My work**\
+Developed and implemented an innovative Hierarchical Reinforcement Learning (RL) optimization algorithm to improve autonomous navigation in highly dynamic environments.\
+**Collaborations**\
+Collaborated cross-functionally within the research team, ensuring system-level integration by working with ROS and SLAM-based modules. Also contributed to adjacent projects, including a vision-language question-answering system based on large-scale remote sensing data.\
+**Outcomes**\
 One first-author paper under submission to ICRA 2025 and one invention patent in process. Codebase and methodological highlights are available on my GitHub.
 
 #### Challenge Cup: Real-Time Intelligent Perception and Inference System for UAV Payload Imagery *(Jun 2025 – Aug 2025)*
