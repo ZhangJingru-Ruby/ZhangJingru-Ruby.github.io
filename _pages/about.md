@@ -23,11 +23,36 @@ permalink: /about/
 
 <div style="margin-top: 4rem;"></div>
 
-## 🎓 Educations
+<section class="about-education">
+  <h2>🎓 Educations</h2>
 
-- **M.Sc. Aerospace Science and Technology (AI Focus)** | **UESTC** | *Sep 2024 – Present*  
-- **B.Eng. Aircraft Control and Information Engineering** | **UESTC** | *Sep 2020 – Jun 2024*  
-  GPA: 3.8/4.0, Rank 1st
+  <div class="edu-row">
+    <div class="edu-degree">
+      <strong>M.Sc. Aerospace Science and Technology (AI Focus)</strong>
+    </div>
+    <div class="edu-school">
+      <strong>UESTC</strong>
+    </div>
+    <div class="edu-time">
+      <em>Sep 2024 – Present</em><br>
+      GPA: 3.8/3.88
+    </div>
+  </div>
+
+  <div class="edu-row">
+    <div class="edu-degree">
+      <strong>B.Eng. Aircraft Control and Information Engineering</strong>
+    </div>
+    <div class="edu-school">
+      <strong>UESTC</strong>
+    </div>
+    <div class="edu-time">
+      <em>Sep 2020 – Jun 2024</em><br>
+      GPA: 3.8/4.0, Rank 1st
+    </div>
+  </div>
+</section>
+
 
 ---
 

@@ -226,3 +226,35 @@
   }
 }
 
+.about-education {
+  margin-top: 2rem;
+
+  .edu-row {
+    display: grid;
+    grid-template-columns: 1fr 150px 200px;
+    gap: 20px;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);  // optional light line for spacing
+
+    @media only screen and (max-width: 700px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .edu-degree {
+    font-size: 18px;
+    color: $black;
+  }
+
+  .edu-school {
+    font-size: 16px;
+    font-weight: bold;
+    color: #e16c90; // your signature Ruby Blush 💖
+  }
+
+  .edu-time {
+    font-size: 15px;
+    color: $gray;
+  }
+}
+
