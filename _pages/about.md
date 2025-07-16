@@ -57,7 +57,7 @@ permalink: /about/
 
 ## 🚀 Research & Projects
 
-#### <font color=#E16C90>Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios</font>
+<h4><font color=#E16C90>Intelligent Detection and Management of Foreign Objects in Complex Airport Scenarios</font></h4>
 #### *(National Key R&D Project, 2024 – Present)*
 
 **Responsibility**\
