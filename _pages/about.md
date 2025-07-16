@@ -35,7 +35,7 @@ permalink: /about/
     </div>
     <div class="edu-time">
       <em>Sep 2024 – Present</em><br>
-      GPA: 3.8/3.88
+      GPA: 3.88/4.0
     </div>
   </div>
 

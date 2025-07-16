@@ -29,6 +29,36 @@ permalink: /个人简历/
 - 电子科技大学 航空航天学院 航空宇航科学与技术（人工智能方向） 	GPA 3.88        硕士	2024.09-至今
 - 电子科技大学 航空航天学院 飞行器控制与信息工程 	           GPA 3.8 排名1   本科	   2020.09-2024.06
 
+<section class="about-education">
+  <h2>🎓 Educations</h2>
+
+  <div class="edu-row">
+    <div class="edu-degree">
+      <strong> 硕士 航空宇航科学与技术（人工智能方向）</strong>
+    </div>
+    <div class="edu-school">
+      <strong>电子科技大学 航空航天学院</strong>
+    </div>
+    <div class="edu-time">
+      <em>2024.09-至今</em><br>
+      GPA: 3.88/4.0
+    </div>
+  </div>
+
+  <div class="edu-row">
+    <div class="edu-degree">
+      <strong>本科 飞行器控制与信息工程</strong>
+    </div>
+    <div class="edu-school">
+      <strong>电子科技大学 航空航天学院</strong>
+    </div>
+    <div class="edu-time">
+      <em>2020.09-2024.06</em><br>
+      GPA: 3.8/4.0, 排名1
+    </div>
+  </div>
+</section>
+
 ---
 
 ## 项目经历
