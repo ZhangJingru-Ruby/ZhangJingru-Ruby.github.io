@@ -15,7 +15,7 @@ permalink: /about/
         <p>Hi, I’m <strong>Ruby Zhang (张景茹)</strong>.</p>
         <p>My current work is focusing on bridges <em>hierarchical & offline‑to‑online RL</em> with classic path‑planning to move from simulation to human‑safe autonomy.</p>
         <p>I’m currently completing my M.S. at University of Electronic Science and Technology of China (UESTC) and actively seeking a PhD position starting <strong>Fall 2027</strong>.</p>
-        <p>Here's something you can know about me.<p>
+        <p>Here's something you can know about me.</p>
       </div>
     </div>
   </div>
